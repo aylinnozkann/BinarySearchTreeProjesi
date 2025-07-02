@@ -43,7 +43,6 @@ YANITLAR
 - 2 > 1 -------- sağa
 - 2 < 3 -------- 3’ün soluna 2 yazılır.
 
-
                 7
               /   \
             5       8
@@ -53,6 +52,9 @@ YANITLAR
      0     3
          /   \
         2     4
+
+          
+
 
 * Root 7'dir.
 * 7’nin solunda 5, sağında 8 vardır.
